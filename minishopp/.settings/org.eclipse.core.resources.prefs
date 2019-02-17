@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/quoccuong/controller/TrangLoginController.java=UTF-8
+encoding//src/main/java/com/quoccuong/dao/MauDao.java=UTF-8
+encoding//src/main/java/com/quoccuong/dao/NhanVienDao.java=UTF-8
+encoding//src/main/java/com/quoccuong/dao/SanPhamDao.java=UTF-8
+encoding//src/main/java/com/quoccuong/service/SanPhamService.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin.jsp=UTF-8
